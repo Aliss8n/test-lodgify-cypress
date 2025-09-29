@@ -1,0 +1,5 @@
+allure-report/
+allure-results/
+reports/
+node_modules
+cypress/screenshots
