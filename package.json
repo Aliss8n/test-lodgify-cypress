@@ -13,6 +13,7 @@
   "dependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^22.2.0",
     "@bahmutov/cypress-esbuild-preprocessor": "^2.2.5",
+    "cypress": "^14.5.1",
     "path": "^0.12.7"
   },
   "cypress-cucumber-preprocessor": {
@@ -27,7 +28,6 @@
   "devDependencies": {
     "@shelex/cypress-allure-plugin": "^2.41.2",
     "allure-commandline": "^2.34.1",
-    "better-sqlite3": "^12.2.0",
-    "cypress": "^15.3.0"
+    "better-sqlite3": "^12.2.0"
   }
 }
